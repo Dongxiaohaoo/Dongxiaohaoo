@@ -8,4 +8,8 @@
 - ⚡ I'm learning about Android & data structure
 - 🔥 Welcome to my blog -> <a href='http://dongxiaohao.top/'>Dongxiaohao</a>  
   
-![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-IDEA-blue)
+![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-IDEA-blue)  
+![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VSCODE-yellowgreen)  
+![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-PyCharm-green)  
+
+
